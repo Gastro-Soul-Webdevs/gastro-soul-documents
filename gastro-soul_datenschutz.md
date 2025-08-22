@@ -1,7 +1,3 @@
-[Schliessen](https://gastro-soul.de/datenschutz)
-
-1. [Home](https://gastro-soul.de/)
-2. Datenschutz
 
 ## 2\. Datenschutz-Information
 
