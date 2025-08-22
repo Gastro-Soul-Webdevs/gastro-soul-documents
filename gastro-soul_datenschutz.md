@@ -303,24 +303,3 @@ Dieser Internetauftritt enthält Links zu externen Webseiten Dritter, auf deren 
 Wir sind zum Schutz Ihrer persönlichen Daten verpflichtet. Um unberechtigte Zugriffe oder die Offenlegung Ihrer Daten zu verhindern und die Richtigkeit sowie die rechtmäßige Nutzung Ihrer Daten zu gewährleisten, verfügen wir über entsprechende physische und verwaltungstechnische Verfahren.
 
 Bei der Erfassung oder Übertragung vertraulicher Daten (Ihre Bankdaten) wird die SSL- Verschlüsselung (SSL= Secure Sockets Layer) angewendet. Dies gewährleistet, dass niemand außer Paypal die Daten lesen kann. Dass dieses Sicherheitsfeature aktiv ist, erkennen Sie daran, dass- abhängig vom Browser, den Sie benutzen- im unteren Bereich des Fensters entweder das Symbol eines unversehrten Schlüssels oder eines geschlossenen Schlosses erscheint. Außerdem beginnt die Adresszeile der Website (URL) dann mit „https“ statt mit „http“.
-
-
-- [1\. Impressum](https://gastro-soul.de/impressum)
-- [2\. Datenschutz](https://gastro-soul.de/datenschutz)
-- [3\. Nutzungsbedingungen](https://gastro-soul.de/nutzungsbedingungen)
-
-![contact](https://gastro-soul.de/images/gs_call.jpg)
-
-###### Du hast eine Frage?
-
-Dann schreibe uns gern eine Mail oder rufe uns an.
-
-Telefonisch erreichst du uns:
-
-Mo 8.00 - 17.00 Uhr
-
-Di - Do 9.00 - 17.00 Uhr
-
-Fr 9.00 - 16.00 Uhr.
-
-[Kontakt](https://gastro-soul.de/kontakt)
