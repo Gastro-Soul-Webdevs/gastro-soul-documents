@@ -127,7 +127,3 @@ Im VAPIANO können zur Wahrung des Hausrechtes und zur Sicherung des reibungslos
 (3) Die deutsche Sprachfassung der Geschäftsbedingungen des VAPIANO ist allein maßgeblich.
 
 (4) Sollten einzelne Bestimmungen dieser allgemeinen Geschäftsbedingungen unwirksam oder nichtig sein oder werden, so wird dadurch die Wirksamkeit der übrigen Bestimmungen nicht berührt. VAPIANO wird die unwirksamen Bestimmungen unverzüglich durch solche ersetzen, die dem angestrebten Zweck und ihrer wirtschaftlichen Bedeutung möglichst nahekommen. Dasselbe gilt für den Fall, dass Regelungslücken im Vertrag enthalten sein sollten.
-
-![](<Base64-Image-Removed>)
-
-[Previous image](https://www.vapiano.de/de/agb)[Next image](https://www.vapiano.de/de/agb)
