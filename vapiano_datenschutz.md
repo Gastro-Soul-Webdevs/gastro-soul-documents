@@ -374,7 +374,3 @@ eines unversehrten SchlÃ¼ssels oder eines geschlossenen Schlosses erscheint. AuÃ
 
 
 Stand 14.05.2025
-
-![](<Base64-Image-Removed>)
-
-[Previous image](https://www.vapiano.de/de/datenschutz)[Next image](https://www.vapiano.de/de/datenschutz)
