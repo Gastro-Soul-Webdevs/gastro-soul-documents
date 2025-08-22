@@ -29,7 +29,3 @@ Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen 14 Tagen 
 - Datum
 
 (\*) Unzutreffendes streichen.
-
-![](<Base64-Image-Removed>)
-
-[Previous image](https://www.vapiano.de/de/widerrufsbelehrung)[Next image](https://www.vapiano.de/de/widerrufsbelehrung)
